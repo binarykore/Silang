@@ -8,8 +8,14 @@
 * Ghidra Preview (2):
 ![Ghidra Preview (2)](https://raw.githubusercontent.com/binarykorra/CLangReversing/main/previews/ghidra_2.png)
 
+* Ghidra Preview (3):
+![Ghidra Preview (3)](https://raw.githubusercontent.com/binarykorra/CLangReversing/main/previews/ghidra_3.png)
+
+* Ghidra Preview (4):
+![Ghidra Preview (4)](https://raw.githubusercontent.com/binarykorra/CLangReversing/main/previews/ghidra_4.png)
+
 ## Currently Reversible are:
-* Shared Library like SO and DLL
+* Shared Library like SO ".so" and DLL ".dll"
 * GCC-generated C Language Files
 
 ## Important Notes:
