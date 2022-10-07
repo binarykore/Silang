@@ -18,11 +18,9 @@
 * Shared Library like SO ".so" and DLL ".dll"
 * GCC-generated C Language Files
 
-## Important Notes:
-* You may fetch the structure of the code through Ghidra but you cannot get the Function Name (Only the Function Signature for Malware Analysis), Variable Name or even a Custom Function Name (Only the Function Signature which is converted to Hex if present) through Ghidra.. You may not also get the Variable Definition Name of the Header File, Only the Value or if its not executed in the Program, You may not be able to fetch the Definition Value through Ghidra unless the Load External Libraries is activated by importing the Header File from the GCC-generated C Language File through Ghidra (if present)..
-
 ## Note:
 * You may use any tools you favor like Ghidra or Radare, as this is a Developer Kit that you may use for Extraction Purposes and relevant to Information Security and Cybersecurity-based only..
+* Values-only Extractable for Ghidra and Radare, Most especially Extracting Information like Decryption Keys and stuff for Reverse Engineering..
 
 ### Copyright since ( 2022 )
 ( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
