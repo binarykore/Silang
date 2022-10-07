@@ -9,8 +9,11 @@
 ![Ghidra Preview (2)](https://raw.githubusercontent.com/binarykorra/CLangReversing/main/previews/ghidra_2.png)
 
 ## Currently Reversible are:
-* Shared Library like .so
+* Shared Library like ".so" and DLL
 * GCC-generated C Language Files
+
+## Important Notes:
+* You may fetch the structure of the code through Ghidra but you cannot get the Function Name (Only the Function Signature for Malware Analysis), Variable Name or even a Custom Function Name (Only the Function Signature which is converted to Hex if present) through Ghidra.. You may not also get the Variable Name of the Definition, Only the Value or if its not executed in the Program, You may not be able to fetch the Definition Value through Ghidra..
 
 ## Note:
 * You may use any tools you favor like Ghidra or Radare, as this is a Developer Kit that you may use for Extraction Purposes and relevant to Information Security and Cybersecurity-based only..
