@@ -2,9 +2,15 @@
 * C Language-based Reversing GCC Files Developer Kit..
 
 ## Preview:
-
 * Ghidra Preview (1):
 ![Ghidra Preview (1)](https://raw.githubusercontent.com/binarykorra/CLangReversing/main/previews/ghidra_1.png)
+
+* Ghidra Preview (2):
+![Ghidra Preview (2)](https://raw.githubusercontent.com/binarykorra/CLangReversing/main/previews/ghidra_2.png)
+
+## Currently Reversible are:
+* Shared Library like .so
+* GCC-generated C Language Files
 
 ## Note:
 * You may use any tools you favor like Ghidra or Radare, as this is a Developer Kit that you may use for Extraction Purposes and relevant to Information Security and Cybersecurity-based only..
