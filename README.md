@@ -23,4 +23,4 @@
 * Values-only Extractable for Ghidra and Radare, Most especially Extracting Information like Decryption Keys and stuff for Reverse Engineering..
 
 ### Copyright since ( 2022 )
-( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
+( C ) - [Binary Kore](https://github.com/binarykore), 09225205353
